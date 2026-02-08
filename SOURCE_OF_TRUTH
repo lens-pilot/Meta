@@ -1,0 +1,22 @@
+# Source of Truth
+
+This document defines where authoritative information for the Lens Pilot lives and how decisions are recorded.
+
+## Canonical Repositories
+
+The Lens Pilot GitHub organization and its repositories are the canonical source of truth for all project materials, including governance documents, curricula, and operational records.
+
+## Decision Making
+
+- Substantive decisions are documented in repositories via issues, pull requests, or committed documents.
+- Informal discussions may occur elsewhere, but outcomes must be recorded in GitHub to be considered official.
+
+## Communication Norms
+
+- GitHub Discussions are the primary forum for questions, deliberation, and community input.
+- Direct messages and off-platform conversations are discouraged for decision-making.
+- When off-platform input influences a decision, it should be summarized and recorded.
+
+## Transparency
+
+This structure exists to preserve institutional memory, ensure fairness, and enable future review of how and why decisions were made.
